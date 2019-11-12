@@ -1,0 +1,10 @@
+Mastering.sln
+Mastering.VC.db
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build2017Projects.bat
+enc_temp_folder/
